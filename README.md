@@ -1,4 +1,4 @@
-![alt text](https://goo.gl/seN5JF "preview.png")
+![alt text](https://firebasestorage.googleapis.com/v0/b/amber-inferno-9988.appspot.com/o/git%2Ffoldicons%2Fpreview.png?alt=media&token=435c2f0d-1ae3-409f-bf83-7005cadc8986 "preview.png")
 
 ### About Foldicons
 Foldicons is a growing pack of custom icons to use with macOS folders. Keep yourself more organized by replacing the default folder icon with a visual aid!
